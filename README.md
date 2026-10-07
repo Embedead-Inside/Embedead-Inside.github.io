@@ -16,22 +16,22 @@ Embedead-Man 💀
 
 組込み開発における利便性とリソースの軽量化を追求した、実践的なライブラリ群です。
 
-### 💀 [embedded-cli](https://github.com)
+### 💀 [embedded-cli](https://github.com/embedded-cli)
 **組込み向け超軽量・スレッドセーフなC99コマンドラインインタフェース（CLI）**
 - **特長**: 標準ライブラリ（`libc`）非依存、スレッドセーフ、再入可能（リエントラント）な設計。
 - **対応**: 20種類以上のマイコン、SoC、およびPC環境に対応。
 
-### 💀 [bare-metal-printf](https://github.com)
+### 💀 [bare-metal-printf](https://github.com/bare-metal-printf)
 **ベアメタル・組込みシステム向けの超軽量・スタンドアロンな `printf` & `snprintf` ライブラリ**
 - **特長**: C99準拠。動的メモリを一切使用せず、メモリ制限の厳しいマイコンでも安全に動作。
 
-### 💀 [embedded-uart-retarget](https://github.com)
+### 💀 [embedded-uart-retarget](https://github.com/embedded-uart-retarget)
 **マルチアーキテクチャ対応 UARTリターゲット（printf/scanf）実装コード集**
 - **特長**: 全65種類以上のCPU、MCU、SoC、DSPに対応。Doxygenコメント付きで高い可視性を確保。
 
 ### 💀 [tiny-xmodem](https://github.com)
 **極小・機種依存なしのXMODEM送受信C言語ライブラリ**
-- **特長**: 依存関係ゼロ。シンプルなチェックサムおよびCRC-16に対応し、ベアメタル環境でのブートローダーやデータ転送に最適。
+- **特長**: 依存関係ゼロ。シンプルな128バイト/チェックサムに限定した、ベアメタル環境でのブートローダーやデータ転送に最適。
 
 ---
 
