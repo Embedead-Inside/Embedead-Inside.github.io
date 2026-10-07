@@ -1,1 +1,17 @@
-<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
+<link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico">
+
+<style>
+  /* タイトルの上にロゴ画像を差し込む設定 */
+  header ul::before {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;  /* ロゴとタイトルの間の余白 */
+    background-image: url("{{ site.baseurl }}/Embedead-Man.png"); /* 画像のパス */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left center;
+    border-radius: 50%;   /* 画像を「丸型」にしたい場合はこの行を残す（四角なら消す） */
+  }
+</style>
