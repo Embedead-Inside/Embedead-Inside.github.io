@@ -8,7 +8,7 @@ Embedead-Man 💀
 
 **Embedded & Bare-Metal Development Libraries**
 
-<a href="https://github.com">
+<a href="https://github.com/Embedead-Inside">
   <img src="Embedead-Man.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" alt="Embedead-Man">
 </a>
 
