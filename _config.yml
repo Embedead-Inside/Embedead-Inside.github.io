@@ -1,8 +1,6 @@
 title: "Embedead-Inside"
 description: "組込み・ベアメタル環境向けの超軽量・スタンドアロンなC99ライブラリ（動的メモリ・標準ライブラリ不使用）"
-theme: jekyll-theme-minimal
-
-theme: jekyll-theme-minimal
+theme: minimal
 
 github:
   is_project_page: true
