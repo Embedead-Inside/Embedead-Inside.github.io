@@ -34,10 +34,6 @@ Embedead-Man 💀
 **マルチアーキテクチャ対応 UARTリターゲット（printf/scanf）実装コード集**
 - **特長**: 全65種類以上のCPU、MCU、SoC、DSPに対応。Doxygenコメント付きで高い可視性を確保。
 
-### 💀 [tiny-xmodem](https://github.com/Embedead-Inside/tiny-xmodem)
-**極小・機種依存なしのXMODEM送受信C言語ライブラリ**
-- **特長**: 依存関係ゼロ。シンプルな128バイト/チェックサムに限定した、ベアメタル環境でのブートローダーやデータ転送に最適。
-
 ---
 
 ## 💀 Design Principles (設計思想)
