@@ -8,6 +8,11 @@ Embedead-Man 💀
 
 **Embedded & Bare-Metal Development Libraries**
 
+<a href="https://github.com">
+  <img src="Embedead-Man.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" alt="Embedead-Man">
+</a>
+
+
 ベアメタルおよび組込みシステム向けに、動的メモリ（`malloc`など）や標準ライブラリ（`libc`）に依存しない、超軽量・スタンドアロン・高移植性なC99ライブラリを開発・公開しています。
 
 ---
@@ -29,10 +34,6 @@ Embedead-Man 💀
 **マルチアーキテクチャ対応 UARTリターゲット（printf/scanf）実装コード集**
 - **特長**: 全65種類以上のCPU、MCU、SoC、DSPに対応。Doxygenコメント付きで高い可視性を確保。
 
-### 💀 [tiny-xmodem](https://github.com/Embedead-Inside/tiny-xmodem)
-**極小・機種依存なしのXMODEM送受信C言語ライブラリ**
-- **特長**: 依存関係ゼロ。シンプルな128バイト/チェックサムに限定した、ベアメタル環境でのブートローダーやデータ転送に最適。
-
 ---
 
 ## 💀 Design Principles (設計思想)
@@ -44,4 +45,4 @@ Embedead-Man 💀
 ---
 
 ## 💀 Links
-- **GitHub Profile**: [Embedead-Inside (Embedead-Man)](https://github.com/Embedead-Inside)
+- **GitHub Profile**: [Embedead-Inside (Embedead-Man 💀)](https://github.com/Embedead-Inside)
