@@ -9,6 +9,10 @@ Embedead-Man 💀
 **Embedded & Bare-Metal Development Libraries**
 
 ![Embedead-Man.png](https://embedead-inside.github.io/Embedead-Man.png)
+<a href="https://github.com">
+  <img src="Embedead-Man.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" alt="Embedead-Man">
+</a>
+
 
 ベアメタルおよび組込みシステム向けに、動的メモリ（`malloc`など）や標準ライブラリ（`libc`）に依存しない、超軽量・スタンドアロン・高移植性なC99ライブラリを開発・公開しています。
 
